@@ -12,9 +12,9 @@ const MainCrosel = () => {
     <AliceCarousel
         items={itm} 
         disableButtonsControls
-        autoPlay
-        autoPlayInterval={3000}
-        infinite
+        // autoPlay
+        // autoPlayInterval={3000}
+        // infinite
     />)
   }
  export default MainCrosel;
